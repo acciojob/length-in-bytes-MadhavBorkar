@@ -1,9 +1,9 @@
 const byteSize = (str) => {
   // write your code here
 	function byteSize(str) {
-		const Byte = new Byte([str]);
-	    const size = Byte.size;
-	}    return size;
+	    const size = str.size;
+		return size;
+	}   // return size;
 };
 
 // Do not change the code below
